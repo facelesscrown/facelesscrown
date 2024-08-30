@@ -23,7 +23,7 @@ I'm a passionate Fullstack Web Developer with expertise in HTML/CSS, JavaScript,
 - Any project that excites my creativity and problem-solving skills
 
 ## 📫 How to Reach Me
-- Email: [your-email@example.com]
+- Email: nofacefinder@gmail.com
 - LinkedIn: [Your LinkedIn Profile]
 - Twitter: [Your Twitter Handle]
 
